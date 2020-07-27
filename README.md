@@ -10,7 +10,7 @@ The application will allow a user to enter a question into a text box, click the
 
 - Minimalism counts. While you are free to use any outside libraries you wish, more consideration will be given to those submissions that use fewer (if any) third-party packages. We are looking for candidates that have a firm grasp on the front-end fundamentals.
 
-- You app must contain the features specified below, and follow the mockup and brand guidelines precisely. Failure to do so will result in your submission being removed from consideration. That being said, adding additional features above and beyond the required ones will be given extra consideration.
+- Your app must contain the features specified below, and follow the mockup and brand guidelines precisely. Failure to do so will result in your submission being removed from consideration. That being said, adding additional features above and beyond the required ones will be given extra consideration.
 
 - Assume this is a collaborative project, and other team members will be reading your code and adding features in the future.
 
