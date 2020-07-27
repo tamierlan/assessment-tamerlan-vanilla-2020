@@ -22,9 +22,9 @@ The user interface of your Magic 8-Ball application should be laid out as specif
 
 ![Assessment mockup](https://twisted-rope-misc.s3.amazonaws.com/assessments/mockup_2020.png)
 
-Your app may include additional elements if necessary, but it must contain everything shown in the mockup.
+The title in the browser tab should be "Magic 8-Ball".
 
-It must also conform to the following brand guidlines:
+Your app may include additional elements if necessary, but it must contain everything shown in the mockup. It must also conform to the following brand guidlines:
 
 Guideline | Value
 ------------ | -------------
