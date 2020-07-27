@@ -70,4 +70,4 @@ If you're feeling creative, you may also implement your own bonus features. If y
 
 #### Submission
 
-Once your application is complete, please zip your project (if you have a  **node_modules** directory, please remove it before doing so) and host it anywhere we can easily grab it (Google Docs, Github, Dropbox etc). Then, send a response to your recruitment contact saying you've completed the assessment and include the link to your zip file and any relevant instructions for building/viewing your project. You're all set!
+Once your application is complete, please zip your project (if you have a **node_modules** directory, please remove it before doing so) and host it anywhere we can easily grab it (Google Docs, Github, Dropbox etc). Then, send a response to your recruitment contact saying you've completed the assessment and include the link to your zip file and any relevant instructions for building/viewing your project. You're all set!
