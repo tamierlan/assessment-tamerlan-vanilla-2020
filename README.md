@@ -54,7 +54,7 @@ Your app must also do the following:
 
 - It must display a loader or an animation during requests that ends when a response is received. This could be a spinner or a custom animation, as long as it shows and hides correctly for optimal user experience.
 
-- It must display the response to user's question after every request. The query result area can initially be blank, but it should always have a response in it after the first response is received.
+- It must display the response to a user's question after every request. The query result area can initially be blank, but it should always have a response in it after the first response is received.
 
 #### Bonus Features:
 
